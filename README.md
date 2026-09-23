@@ -1,8 +1,3 @@
-# 💻RenderSite
-## Atividade de como funciona o Render Site
+# Elden Ring no render SITE
 
-Aqui está o site em html feito para testar o Render, você pode acessa-lo e baixa-lo em seu computador também
-
-## Qual o intuito desta atividade?
-- [x] Entender como funciona a hospedagem na internet
-
+Um site que criei para entender css e html, o site tem o tema do jogo elden ring
